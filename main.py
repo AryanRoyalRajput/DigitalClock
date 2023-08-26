@@ -100,7 +100,7 @@ lab_year_txt.place(x=560, y=410, height=30, width=100)
 
 # *** Day ***
 
-lab_day = Label(clock, text="00", font=('Time New Roman', 50, "bold"),
+lab_day = Label(clock, text="00", font=('Time New Roman', 40, "bold"),
                bg="red", fg="white")
 lab_day.place(x=780, y=270, height=110, width=100)
 
